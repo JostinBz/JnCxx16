@@ -1,9 +1,8 @@
 # 💫 About Me:
-* I am a systems engineering student<br>
-* I like programming and learning something new every day<br>
+* I'm Jostin, a systems engineering student and super passionate developer from Colombia.<br>
+* Backend developper, Software developper<br>
 * I like to study and practice my development skills and English<br>
-* I often play soccer with my friends<br>
-* I am recently learning about web development and devops
+* I often play soccer with my friends<br> 
 
 
 ## 🌐 Socials:
